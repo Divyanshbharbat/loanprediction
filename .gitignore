@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Environment variables (secrets)
+.env
+
+# Local Database
+loan_system.db
+
+# Python caches
+__pycache__/
+*.pyc
+
+# IDE configs
+.vscode/
+.idea/

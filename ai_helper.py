@@ -2,7 +2,7 @@ import os
 from google import genai
 from google.genai import errors
 from dotenv import load_dotenv
-
+import cv2
 # Load environment variables
 load_dotenv()
 api_key = os.getenv("GEMINI_API_KEY")

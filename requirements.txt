@@ -5,3 +5,9 @@ scikit-learn
 google-genai
 python-dotenv
 plotly
+
+opencv-python-headless
+
+
+joblib
+Pillow

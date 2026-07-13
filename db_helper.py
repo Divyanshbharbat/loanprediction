@@ -2,7 +2,7 @@ import sqlite3
 import hashlib
 import pandas as pd
 from datetime import datetime
-
+import cv2
 DB_FILE = "loan_system.db"
 
 def get_connection():
